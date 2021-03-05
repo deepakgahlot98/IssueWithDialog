@@ -1,0 +1,6 @@
+package com.example.issuewithdialog
+
+const val EXPAND_ANIMATION_DURATION = 100
+const val COLLAPSE_ANIMATION_DURATION = 100
+const val FADE_IN_ANIMATION_DURATION = 150
+const val FADE_OUT_ANIMATION_DURATION = 100
